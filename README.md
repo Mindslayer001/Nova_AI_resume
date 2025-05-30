@@ -1,4 +1,4 @@
-# Shortlist AI  
+# Nova_AI
 An AI-powered resume builder that tailors resumes to specific job descriptions, improving relevance and readability for job seekers. Built with cutting-edge technologies like FastAPI, React, and Llama 8B (via Groq LLM interface).  
 
 ## Features  
@@ -15,14 +15,14 @@ An AI-powered resume builder that tailors resumes to specific job descriptions, 
 ## How It Works  
 1. **Input Details**: Users input personal details or upload an existing resume.  
 2. **Upload Job Description**: The system analyzes job requirements using advanced NLP models.  
-3. **Resume Generation**: Shortlist AI tailors a resume to match the job description, highlighting relevant skills and achievements.  
+3. **Resume Generation**: Nova AI tailors a resume to match the job description, highlighting relevant skills and achievements.  
 4. **Export**: Users can preview and download their optimized resumes in PDF or Word format.  
 
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/YourUsername/shortlist-ai.git  
-   cd shortlist-ai  
+   git clone https://github.com/YourUsername/Nova-ai.git  
+   cd Nova-ai  
    ```  
 2. Set up the backend:  
    ```bash  
